@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+	font-family:'Dosis', sans-serif;
+}
+
+.header{
+  background-color: green;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #ffffff;
+}
+
+h2{
+ text-align: center;
+}
+
+h3{
+ text-align: center;
+}
+h4{
+ text-align: center;
+}
+
+.btn{
+ text-align: center;
+}
+
+.footer{
+    background-color: green;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow:hidden;
+    text-align: center;
+    color: #ffffff;
+}
+
+.output{
+    padding-top: 50px;
+    padding-bottom: 50px; 
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+
+}
