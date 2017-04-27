@@ -13,39 +13,19 @@ body{
   color: #ffffff;
 }
 
-h2{
- text-align: center;
-}
-
 h3{
- text-align: center;
-}
-h4{
- text-align: center;
-}
-
-.btn{
- text-align: center;
+  text-align: center;
 }
 
 .footer{
-    background-color: green;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100px;
-    width: 100%;
-    overflow:hidden;
-    text-align: center;
-    color: #ffffff;
+  background-color: green;
+	  text-align: center;
+	  padding-top: 50px;
+	  padding-bottom: 50px;
+	  color: #ffffff;
 }
-
+/*
 .output{
-    padding-top: 50px;
-    padding-bottom: 50px; 
-    background-color: blue;
-    color: white;
-    font-size: 18px;
-    text-align: center;
-
-}
+  background-color: orange;
+  color: #ffffff;
+}*/

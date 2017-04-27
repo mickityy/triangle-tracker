@@ -32,13 +32,13 @@ $(document).ready(function() {
       function setImageSource(results) {
       var imageSrc="";
       if (results === "Equilateral") {
-         imageSrc="img/e.png";
+         imageSrc="img/Equilateral.jpg";
       }else if (results === "Isosceles") {
-         imageSrc="img/i.png";
+         imageSrc="img/Isosceles.jpg";
       }else if (results === "Scalene") {
-         imageSrc="img/s.png";
+         imageSrc="img/Scalene.jpg";
       }else {
-        imageSrc="img/n.gif";
+        imageSrc="img/not-a-triangle.jpg";
       }
 
         $('#tri').attr('src', imageSrc);
